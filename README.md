@@ -11,7 +11,7 @@ This project uses an **Artificial Neural Network (ANN)** built with TensorFlow/K
 
 ## Project Structure
 - `app.py`: The Streamlit web application script.
-- `ann_diabetes_improved.py`: The script used for data preprocessing, building, training, and saving the improved ANN model.
+- `ann_diabetes.py`: The script used for data preprocessing, building, training, and saving the improved ANN model.
 - `diabetes_model.h5`: The trained Keras HDF5 model.
 - `scaler.joblib`: The saved StandardScaler object used to normalize input features to match the training data distribution.
 
