@@ -47,7 +47,7 @@ This will open the web interface in your default browser. Enter the patient's me
 **Retraining the Model:**
 If you wish to experiment with the neural network architecture or retrain the model, run:
 ```bash
-python ann_diabetes_improved.py
+python ann_diabetes.py
 ```
 This will process the data, train the model, evaluate the accuracy, and overwrite `diabetes_model.h5` and `scaler.joblib` with the new versions.
 
